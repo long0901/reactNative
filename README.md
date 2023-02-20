@@ -32,11 +32,11 @@
   2.  Cài đặt các thư viện cần thiết của ứng dụng trong thư mục packages.js:
 
 
-    `npm install`
+    npm install
     
   3.  Chạy ứng dụng và quét mã QR code trên ứng dụng expo:
 
-    `npm start`
+    npm start
 
 
 
