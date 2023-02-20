@@ -13,7 +13,7 @@
 * **Mã môn học:** CS526
 * **Mã lớp:** CS526.N11.KHCL
 * **Năm học:** HK1 (2022 - 2023)
-* **Giảng viên:** **Ths. Phạm Nguyễn Trường An**
+* **Giảng viên:** **Ths. Phạm Nguyễn Trường An** - <truonganpn@uit.edu.vn>
 
 
 | STT | Họ tên | MSSV |
