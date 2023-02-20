@@ -25,16 +25,16 @@
 
 ## Cách chạy
 
-  1.Clone code về máy:
+  1.  Clone code về máy:
 
     https://github.com/phucnt2002/reactNative.git
     
-  2. Cài đặt các thư viện cần thiết của ứng dụng trong thư mục packages.js:
+  2.  Cài đặt các thư viện cần thiết của ứng dụng trong thư mục packages.js:
 
 
     `npm install`
     
-  3. Chạy ứng dụng và quét mã QR code trên ứng dụng expo:
+  3.  Chạy ứng dụng và quét mã QR code trên ứng dụng expo:
 
     `npm start`
 
