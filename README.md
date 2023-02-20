@@ -5,7 +5,7 @@
   </a>
 </p>
 <!-- Title -->
-<h1 align="center"><b>CS112.L21 - Phát triển ứng dụng đa phương tiện trên thiết bị di động</b></h1>
+<h1 align="center"><b>CS526.N11.KHCL - Phát triển ứng dụng đa phương tiện trên thiết bị di động</b></h1>
 
 
 ## GIỚI THIỆU MÔN HỌC
